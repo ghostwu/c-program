@@ -7,5 +7,6 @@ int main(  void ) {
 	scanf( "%d %d", &a, &b );
 	double c = a + b;
 	printf( "a = %d, b = %d, sum of a and b = %f\n", a, b, sum );
+	double d = a - b;
 	return 0;
 }
